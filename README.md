@@ -3,3 +3,5 @@ A repo for the final project for Machine Learning for Earth and Environmental Sc
 
 The raw data used for the project can be accessed [here](https://drive.google.com/file/d/1YlliTUpWy_NxhM_7obUm_R0W0u-Jb-cV/view?usp=sharing). 
 
+The code is available on this repo as a .py file [here](https://github.com/kingakaszap/owl_spot_project/blob/main/find_spots_owls.py), but also on Colab [here](https://colab.research.google.com/drive/1yUj3QwHy5vIr7knU2W3HkS3nmfoS56Uy?usp=sharing). (unfortunately I had issues with uploading it here directly from colab, likely due to the large file size with lots of inline images and saved otputs). 
+
