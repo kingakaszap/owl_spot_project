@@ -1,4 +1,4 @@
-# owl_spot_project
+# Finding the spots in owls
 A repo for the final project for Machine Learning for Earth and Environmental Sciences at UNIL, in the autumn semester of 2025. The project is about training a U-net sytle CNN to find the spots on owl plumages with semantic segmentation :) 
 
 The final model did quite a good job atsegmenting the spots! 
